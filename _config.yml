@@ -1,6 +1,6 @@
 # main text of home
 name: Ariansyah, Ricky
-bio: A Man who travels the world eating noodles
+bio: Bentar... bentarr lagi dipikirin
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -30,18 +30,18 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: rickyarians # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
-instagram: myinstagram
+instagram: rckyaas
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: rickyarians
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: Rickyarians
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -55,10 +55,9 @@ email: rickyarians@outlook.com
 authors:
   ricky:
     name: Ricky Ariansyah
-    bio: A Man who travels the world eating noodles
+    bio: Bentar... bentarr lagi dipikirin
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/nobita.jpg
   
 
 # do you want a larger site? change the option below
@@ -80,6 +79,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+hobikoding: true
 
 
 # do you want to show the "read time" of the posts?
