@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: mytwitter
+twitter: rickyaas
 instagram: rckyaas
 # pinterest: mypinterest
 linkedin: rickyarians
@@ -58,6 +58,7 @@ authors:
     bio: Bentar... bentarr lagi dipikirin
     external-image: false
     picture: assets/images/nobita.jpg
+    twitter: rickyaas
   
 
 # do you want a larger site? change the option below
